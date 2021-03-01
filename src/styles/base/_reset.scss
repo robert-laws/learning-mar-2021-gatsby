@@ -1,0 +1,20 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+ul[class],
+ol[class] {
+  padding: 0;
+}
+
+h1 {
+  color: red !important;
+}
+
+div {
+  h2 {
+    color: green;
+  }
+}
